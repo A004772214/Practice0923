@@ -10,3 +10,9 @@ public int multiplication (int a, int b) {
 public int addition (int a, int b){
 	return a+b;
 }
+
+#A00476462
+Public int Subtraction(int a, int b) {
+
+	return a-b;
+}

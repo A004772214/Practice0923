@@ -10,3 +10,9 @@ public int pow(int a, int b) {
 public int max (int a, int b){
 	return max(a, b) - Math.Max();
 }
+
+#A00476462
+Public int Avg(int a, int b) {
+
+	return Math.avg(a,b);
+}
