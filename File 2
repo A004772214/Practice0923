@@ -7,7 +7,7 @@ public int min(int a, int b) {
 }
 
 #A00477214
-public int division (int a, int b){
+public int division_func (int a, int b){
 	return a/b;
 }
 
