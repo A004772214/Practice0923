@@ -1,1 +1,7 @@
 File 3
+
+#A00476407
+
+public int pow(int a, int b) {
+	return Math.pow(a,b);
+} 

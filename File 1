@@ -1,1 +1,7 @@
 File 1
+
+#A00476407
+
+public int multiplication (int a, int b) {
+	return a*b;
+}
