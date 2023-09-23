@@ -1,6 +1,6 @@
 File 3
 
 #A00477214
-public int max (int a, int b){
+public int max_func (int a, int b){
 	return max(a, b) - Math.Max();
 }

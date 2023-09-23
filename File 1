@@ -1,6 +1,6 @@
 File 1
 
 #A00477214
-public int addition (int a, int b){
+public int addition_func (int a, int b){
 	return a+b;
 }
