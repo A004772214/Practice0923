@@ -1,1 +1,7 @@
 File 2
+
+#A00476462
+Public int Mod(int a, int b) {
+
+	return a%b;
+}
