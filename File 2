@@ -1,1 +1,12 @@
 File 2
+
+#A00476407
+
+public int min(int a, int b) {
+	return Math.min(a,b);
+}
+
+#A00477214
+public int division (int a, int b){
+	return a/b;
+}
